@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="file:///C:/Users/Lenovo/Downloads/3G%20moms%20kitchen.png">
+    <title>3grecep Websites Store</title>
+    <link rel="stylesheet" href="Wstyle.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="nav-brand">
+            <a href="#">3Grecep Websites Store</a>
+        </div>
+        
+        <ul class="nav-list">
+            <li class="nav-item">
+                <a href="#beranda">Beranda</a>
+            </li>
+            
+            <li class="nav-item dropdown">
+                <a href="#layanan" class="dropdown-toggle">Online Platfrom</a>
+                <ul class="dropdown-menu">
+                    <li><a href="#wlokasi">🚩 Location</a></li>
+                    <li><a href="#app-dev">📱 Media Social</a></li>
+                    <li><a href="#hosting">🖥️ Shopping Platfrom</a></li>
+                </ul>
+            </li>
+            
+            <li class="nav-item dropdown">
+                <a href="#Our product" class="dropdown-toggle">Our product</a>
+                <ul class="dropdown-menu">
+                    <li><a href="#snack">🍟 snack</a></li>
+                    <li><a href="#lauk">🍖 Lauk</a></li>
+                </ul>
+            </li>
+            
+            <li class="nav-item dropdown">
+                <a href="#resources" class="dropdown-toggle">Resources</a>
+                <ul class="dropdown-menu">
+                    <li><a href="#blog">📝 About</a></li>
+                </ul>
+            </li>
+            
+            <li class="nav-item dropdown">
+                <a href="#kontak" class="dropdown-toggle"> Kontak</a>
+                <ul class="dropdown-menu">
+                    <li><a href="https://www.instagram.com/3gmomskitchen?igsh=OGptbHY3d2pqN3pk" target="_blank">🗃️ Instragram</a></li>
+                    <li><a href="https://wa.me/6282338516014" target="_blank">📱 WhatsApp</a></li>
+                    <li><a href="https://www.tiktok.com/@3gmomskitchen" target="_blank">🎵 TikTok</a></li>
+            </li>
+        </ul>
+        
+        <!-- Mobile Menu Button -->
+        <button class="mobile-menu-btn">
+            <span></span>
+            <span></span>
+            <span></span>
+        </button>
+    </nav>
+</body>
+</html>
